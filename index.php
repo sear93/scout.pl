@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="uk">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+		<title>CLUB 4 PAWS SCOUT</title>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NNWDRML');</script>
+		<!-- End Google Tag Manager -->
+		<link rel="stylesheet" media="screen,projection" href="css/ui.totop.css" />
+		<link rel="stylesheet" href="css/reset.css"/>
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"/>
+		<link rel="stylesheet" href="owlcarousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="owlcarousel/assets/owl.theme.default.min.css">
+		<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/main.css"/>
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window,document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '192530575279847'); 
+			fbq('track', 'PageView');
+		</script>
+		<noscript>
+			<img height="1" width="1" 
+			src="https://www.facebook.com/tr?id=192530575279847&ev=PageView
+			&noscript=1"/>
+		</noscript>
+		<!-- End Facebook Pixel Code -->
+  	</head>
+  	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNWDRML"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<header class="header">
+			<div class="header-body">
+					<a href="#main-screen" class="header__logo">
+						<img src="img/logo.png"/>
+					</a>
+		  			<div class="header__burger">
+						<span></span>
+					</div>
+		  		<nav class="header-nav">
+					<a class="header-nav__item brand-link" href="https://club4paws.com/" target="_blank" >O marce</a>
+					<!-- <a class="header-nav__item" id="close_after_news" href="#news">Новини</a> -->
+					<a class="header-nav__item buy-link" id="open-button-1" >GDZIE KUPIĆ?</a>
+					<!-- <a class="header-nav__item scout-link getfood"  >Чи підійде Scout моїй собаці?</a> -->
+				</nav>
+			</div>
+		</header>
+	<main class="main" id="main-screen">
+		<section class="scout">
+			<h1 class="scout__title">
+				<span class="scout__title_green">SCOUT</span><br>
+                NOWA DIETA <br>
+                DLA PSÓW, <br>
+                KTÓRE MOGĄ WSZYSTKO
+            </h1>
+			<img src="img/header-bg.png" alt="" class="scout__img">
+			<!-- <a class="btn getfood">
+				Чи підійде Scout моїй собаці?
+			</a> -->
+		</section>
+		<section class="endurance">
+			<div class="container">
+				<div class="endurance-content">
+					<h2 class="endurance__title">
+                        Więcej energii  <br>
+                        dla psa-mistrza
+                    </h2>
+					<div class="endurance__text">
+						<p>
+                            Pies-mistrz zawsze chce być najlepszym. Wyścigi, zwinność lub zawody frisbee – on wszystko zrobi na 100%. Udowodni, że jest mu to pod siłę.
+						</p>
+						<p>
+                            Specjalistyczna dieta bogata w białko, tłuszcz i L-karnitynę zapewni potężne źródło energii podczas intensywnego treningu oraz ćwiczeń.
+						</p>
+					</div>
+				</div>
+				<!-- <div class="video-container">
+					<iframe src="https://www.youtube.com/embed/TWRXpFub6g0?autoplay=1&loop=1&mute=1&playlist=TWRXpFub6g0,TWRXpFub6g0,TWRXpFub6g0,TWRXpFub6g0" frameborder="0" allowfullscreen></iframe>
+				</div> -->
+                <div class="endurance__img"></div>
+				<div class="endurance__text m">
+						<p>
+                            Pies-mistrz zawsze chce być najlepszym. Wyścigi, zwinność lub zawody frisbee – on wszystko zrobi na 100%. Udowodni, że jest mu to pod siłę.
+						</p>
+						<p>
+                            Specjalistyczna dieta bogata w białko, tłuszcz i L-karnitynę zapewni potężne źródło energii podczas intensywnego treningu oraz ćwiczeń.
+						</p>
+					</div>
+			</div>
+		</section>
+		<hr class="line m">
+		<section class="energy">
+			<div class="energy-content">
+				<h2 class="energy__title">
+                    Wytrzymałość
+                    dla wiarygodnego partnera <br>
+				</h2>
+				<div class="energy__text">
+					<p>
+                        Strome zbocza, burzliwe rzeki, nieprzejezdne leśne szlaki...  Pies zwiadowca jest gotowy na każde wyzwanie!
+                        Dla 4 łapych podróżników i mistrzów nie istnieje żadnych przeszkód - jest tylko pragnienie nowych zwycięstw i ekscytujących odkryć.
+					</p>
+					<p>
+                        Mocne stawy i zdrowe serce - zapewnią psu wysoką wytrzymałość. Dla idealnego działania psy potrzebują glukozaminę i chondroitynę, a także L-karnitynę.
+                        A wzrost i odbudowę tkanki mięśniowej zapewnią aminokwasy, których źródłem jest wysokiej jakości białko zwierzęce..
+                    </p>
+				</div>
+			</div>
+			<img src="img/energy-bg.png" alt="" class="energy__img">
+			<div class="energy__text m">
+					<p>
+                        Pies-mistrz zawsze chce być najlepszym. Wyścigi, zwinność lub zawody frisbee – on wszystko zrobi na 100%. Udowodni, że jest mu to pod siłę.
+					</p>
+					<p>
+                        Specjalistyczna dieta bogata w białko, tłuszcz i L-karnitynę zapewni potężne źródło energii podczas intensywnego treningu oraz ćwiczeń.
+					</p>
+				</div>
+		</section>
+		<hr class="line m">
+		<section class="move">
+			<div class="move-content">
+				<h2 class="energy__title">
+					<span class="g u 3212">32/21</span><br>
+					<span class="u">High energy</span> — <br>
+                    pewny ruch do przodu
+				</h2>
+				<div class="energy__text">
+					<p>
+                        Specjalna formuła zawiera 32% białka i 21% tłuszczu. Zapewnia wysokie zapotrzebowanie kaloryczne dla psów służbowych oraz domowych ulubieńców, które cały czas spędzają w ruchu.
+                    </p>
+					<p>
+                        Efekt wzmacniają składniki mięsne № 1 i składniki odżywcze: L-karnityna, glukozamina, chondroityna, kompleks Omega 3 + Omega 6.
+					</p>
+				</div>
+			</div>
+<!--			<img src="img/move-bg.png" alt="" class="move__img">-->
+            <div class="move__img"></div>
+			<div class="energy__text m">
+					<p>
+                        Specjalna formuła zawiera 32% białka i 21% tłuszczu. Zapewnia wysokie zapotrzebowanie kaloryczne dla psów służbowych oraz domowych ulubieńców, które cały czas spędzają w ruchu.
+					</p>
+					<p>
+                        Efekt wzmacniają składniki mięsne № 1 i składniki odżywcze: L-karnityna, glukozamina, chondroityna, kompleks Omega 3 + Omega 6.
+					</p>
+				</div>
+		</section>
+		<section class="test-slider">
+			<img src="img/dog.png" alt="" class="dog">
+			<img src="img/pack.png" alt="" class="pack">
+			<div class="dots">
+				<button class="bookmark1 active" data="0"></button>
+				<button class="bookmark3" data="1" ></button>
+				<button class="bookmark2" data="2" ></button>
+				<button class="bookmark4" data="3" ></button>
+				<button class="bookmark5" data="4" ></button>
+				<button class="bookmark6" data="5" ></button>
+			</div>
+			<div class="container">
+				<div class="slider owl-carousel owl-theme">
+					<div>
+						<h2 class="slider__title">
+                            Energia
+						</h2>
+						<p class="slider__text">
+                            L-karnityna przekształca tłuszcze w energię. Wspiera pracę serca w okresach intensywnej aktywności fizycznej, poprawiając metabolizm energetyczny.
+						</p>
+					</div>
+					<div>
+						<h2 class="slider__title">
+                            Mocne stawy
+						</h2>
+						<p class="slider__text">
+                            Glukozamina i chondroityna chronią tkanki łączne, żywią niezbędnymi pierwiastkami śladowymi.
+                        </p>
+					</div>
+					<div>
+						<h2 class="slider__title">
+                            Świetny wygląd i zdrowie
+						</h2>
+						<p class="slider__text">
+                            Niezbędne witaminy i minerały, kompleks Omega 3 + Omega 6 i formuła INTEGRAMIX wspierają doskonałą kondycję Twojego ulubieńca, zarówno zewnętrznie, jak i wewnętrznie.
+						</p>
+					</div>
+					<div>
+						<h2 class="slider__title">
+                            Składniki Mięsne № 1
+                        </h2>
+						<p class="slider__text">
+                            W składzie diety mięsne składniki są na pierwszym miejscu.
+						</p>
+					</div>
+				</div>
+				<hr>
+				<div class="consist">
+					<p class="consist__text">
+                        My opracowaliśmy zbilansowaną dietę premium SCOUT dla dorosłych psów dużych i średnich ras.
+					</p>
+					<a id="open-button-2" class="consist__link">
+                        WIĘCEJ O SKŁADZIE KARMY CLUB 4 PAWS SCOUT
+					</a>
+				</div>
+				<!-- <a class="btn getfood">
+					SCOUT ДЛЯ ВАШОГО СОБАКИ?
+				</a> -->
+				<div class="modal-ingredients" id="modal-2" aria-hidden="true" aria-labelledby="modalTitle" aria-describedby="modalDescription" role="dialog">
+					<button class="close-button" id="close-button-2" title="Закрыть модальное окно">
+						<span></span>
+						<span></span>
+					</button>
+					<div class="modal-guts" role="document">
+						<div class="container-modal">
+							<div class="top">
+								<div class="nutritional">
+									<div class="nutritional-title">
+										<h3>
+                                            WARTOŚĆ ODŻYWCZA.
+										</h3>
+										<p>
+                                            SKŁADNIKI ANALITYCZNE:
+										</p>
+									</div>
+									<div class="nutritional-container">
+										<div class="nutritional__item">
+											<p class="property">
+                                                białko surowe
+											</p>
+											<p class="value">
+												32 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                tłuszcz surowy
+											</p>
+											<p class="value">
+												21 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                popiół surowy
+											</p>
+											<p class="value">
+												6,4 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                włókno surowe
+											</p>
+											<p class="value">
+												2,5 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                wapń
+											</p>
+											<p class="value">
+												1,3 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                fosfor
+											</p>
+											<p class="value">
+												0,74 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                kwasy tłuszczowe omega-3
+											</p>
+											<p class="value">
+												0,5 %
+											</p>
+										</div>
+										<div class="nutritional__item">
+											<p class="property">
+                                                kwasy tłuszczowe omega-6
+											</p>
+											<p class="value">
+												4,3 %
+											</p>
+										</div>
+									</div>
+									<div class="energy-value">
+										<div class="nutritional-title">
+											<h3>
+                                                Wartość energetyczna (kaloryczność)
+											</h3>
+											<p>
+                                                na 100 g karmy:
+											</p>
+										</div>
+										<div class="nutritional-container">
+											<div class="nutritional__item energy__item">
+												<p class="property ">
+                                                    1 718,79 kJ (410,8 kcal).
+                                                </p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="additives">
+									<div class="additives-title">
+										<h3>
+                                            DODATKI
+                                        </h3>
+										<p>
+                                            (na 1 kg karmy):
+										</p>
+									</div>
+									<div class="additives-container">
+										<div class="additives__item">
+											<p class="property">
+                                                L-karnityna (3а910)
+											</p>
+											<p class="value">
+                                                250 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina A
+											</p>
+											<p class="value">
+                                                15 000 j.m.
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina D3
+											</p>
+											<p class="value">
+                                                1 200 j.m.
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina E
+											</p>
+											<p class="value">
+                                                400 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina K3
+											</p>
+											<p class="value">
+												6,52 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina B1
+											</p>
+											<p class="value">
+												2,99 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina B2 (ryboflawina):
+											</p>
+											<p class="value">
+												9,1 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                D-pantotenian wapnia
+											</p>
+											<p class="value">
+												23,73 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                niacyna
+											</p>
+											<p class="value">
+												29,6 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina B6
+											</p>
+											<p class="value">
+												3,48 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                kwas foliowy
+											</p>
+											<p class="value">
+												0,52 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                Witamina B12
+											</p>
+											<p class="value">
+												0,209 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                biotyna
+											</p>
+											<p class="value">
+												0,118 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                cholina chlorek 60%
+											</p>
+											<p class="value">
+												5,1 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                cynk
+											</p>
+											<p class="value">
+												173,3 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                miedź
+											</p>
+											<p class="value">
+												11,95 mg
+											</p>
+										</div>
+										<div class="additives__item">
+											<p class="property">
+                                                przeciwutleniacze, konserwant, dozwolone w UE
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="energy-value view">
+								<div class="nutritional-title">
+									<h3>
+                                        Wartość energetyczna (kaloryczność)
+									</h3>
+									<p>
+                                        na 100 g karmy:
+									</p>
+								</div>
+								<div class="nutritional-container">
+									<div class="nutritional__item energy__item">
+										<p class="property ">
+                                            1 718,79 kJ (410,8 kcal).
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="composition">
+								<div class="additives-title">
+									<h3>
+                                        SKŁAD:
+									</h3>
+								</div>
+								<div class="composition-content">
+									<p>
+                                        mączka z mięsa kurczaka 32 %,
+                                        kukurydza, tłuszcz drobiowy (o dodatku tokoferolów),
+                                        gluten kukurydziany,
+                                        ryż,
+                                        hydrolizowane białko zwierzęce,
+                                        pulpa buraczana,
+                                        minerały,
+                                        olej z łososia 0,83 %,
+                                        celuloza,
+                                        drożdże piwne,
+                                        banan <span class="dot"></span> 0,23 %,
+                                        pomidor <span class="dot"></span> 0,2 %,
+                                        chlorowodorek glukozaminy (320 mg/kg),
+                                        siarczan chondroityny (160 mg/kg),
+                                        owoce głogu <span class="dot"></span> 0,065 %,
+                                        korzeń imbiru <span class="dot"></span> 0,01 %.
+									</p>
+									<p>
+										<span class="dot"></span> Naturalne składniki, suszone
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</section>
+		<section class="dsns">
+			<div class="dsns-content">
+				<div class="energy__title">
+					<div class="">
+						<h2>
+                            Opracowano razem <br>
+                            z kynologami
+
+                        </h2>
+						<h3>
+<!--							ДСНС України у Сумській області-->
+						</h3>
+					</div>
+<!--					<img src="img/dsns.png" alt="">-->
+				</div>
+				<div class="energy__text">
+					<p>
+                        Ratownicy codziennie pracują z psami pracującymi i doskonale zdają sobie sprawę z obciążenia 4 łapych podczas służby.
+					</p>
+				</div>
+			</div>
+<!--			<img src="img/dsns-bg.png" alt="" class="dsns__img">-->
+            <div class="dsns__img"></div>
+			<div class="energy__text m">
+					<p>
+                        Ratownicy codziennie pracują z psami pracującymi i doskonale zdają sobie sprawę z obciążenia 4 łapych podczas służby.
+					</p>
+				</div>
+		</section>
+		<!-- <hr class="line"> -->
+		<!-- <section class="instagram">
+			<h2 class="instagram__title">
+				Україна має знати <br>
+				своїх чотирилапих героїв
+			</h2>
+			<p class="instagram__text">
+				Для службових собак #БУТИSCOUT — це щоденні випробування: врятувати людину з-під уламків споруд, знайти небезпечні речовини, затримати злочинця. А які виклики стоять перед вашим собакою? Діліться історіями та приєднуйтесь до спільноти SCOUT
+			</p>
+		</section>
+		<hr class="line" id="news">
+		<section class="news-slider">
+			<h2 class="news-slider__title">
+				Новини
+			</h2>
+			<div class="news-container owl-carousel">
+				<div>
+					<a href="https://club4paws.com/news/tvarini-tezh-chleni-rodini-klub-4-lapi-na-simeinomu-festivali-liza-family-day" _blank>
+						<img src="img/news-1.png" alt="">
+						<h3>
+							Тварини — теж члени родини. 
+							КЛУБ 4 ЛАПИ на сімейному фестивалі Ліза Family Day
+						</h3>
+					</a>
+				</div>
+				<div>
+					<a href="https://club4paws.com/news/klub-4-lapi-prezentuvali-na-mizhnarodnii-vistavtsi-v-italiyi" _blank>
+						<img src="img/news-2.png" alt="">
+						<h3>
+							КЛУБ 4 ЛАПИ презентували на міжнародній виставці в Італії
+						</h3>
+					</a>
+				</div>
+				<div>
+					<a href="https://club4paws.com/news/klub-4-lapi-sponsor-mizhnarodnikh-vistavok-sobak-usikh-porid-v-ukrayini" _blank>
+						<img src="img/news-3.png" alt="">
+						<h3>
+							КЛУБ 4 ЛАПИ - спонсор міжнародних виставок собак усіх порід в Україні
+						</h3>
+					</a>
+				</div>
+				<div>
+					<a href="#">
+						<img src="img/news-1.png" alt="">
+						<h3>
+							Тварини — теж члени родини. 
+							КЛУБ 4 ЛАПИ на сімейному фестивалі Ліза Family Day
+						</h3>
+					</a>
+				</div>
+				<div>
+					<a href="#">
+						<img src="img/news-2.png" alt="">
+						<h3>
+							Тварини — теж члени родини. 
+							КЛУБ 4 ЛАПИ на сімейному фестивалі Ліза Family Day
+						</h3>
+					</a>
+				</div>
+				<div>
+					<a href="#">
+						<img src="img/news-3.png" alt="">
+						<h3>
+							Тварини — теж члени родини. 
+							КЛУБ 4 ЛАПИ на сімейному фестивалі Ліза Family Day
+						</h3>
+					</a>
+				</div>
+			</div>
+		</section> -->
+		<!-- <section class="test">
+			<img src="img/mock_up_5kg.png" alt="" class="sm">
+			<img src="img/dog_mock_up_14kg.png" alt="" class="bg">
+			<h2 class="test__title">
+				Чи підійде SCOUT <br>
+				моїй собаці?
+			</h2>
+			<a class="test__btn getfood">
+				Розпочати тест
+			</a>
+			<a id="testbuy" class="test__buy">
+				Де купити?
+			</a>
+		</section> -->
+	</main>
+
+	<div class="modal-overlay" id="modal-overlay">
+		
+	</div>
+	<div class="modal-buy" id="modal-1" aria-hidden="true" aria-labelledby="modalTitle" aria-describedby="modalDescription" role="dialog">
+		<button class="close-button" id="close-button-1" title="Закрыть модальное окно">
+			<span></span>
+			<span></span>
+		</button>
+		<div class="modal-guts" role="document">
+			<div class="store">
+				<h2>
+                    Bądź jednym z pierwszych! <br>
+                    Kup teraz w specjalnej cenie tylko
+                    w sklepach internetowych:
+				</h2>
+				<div class="store__item">
+					<a href="https://petslike.net/sukhii-korm-dlia-robochikh-sobak-serednikh-i-velikikh-porid" target="_blank"><img src="img/petslike.png" alt="petslike">
+						petslike.net
+					</a>
+				</div>
+				<div class="store__item">
+					<a href="https://pethouse.ua/shop/sobakam/suhoi-korm/klub4lapy/klub-4-lapi-premium-scout-dlya-vzroslih-sobak-srednih-i-krupnih-porod/" target="_blank"><img src="img/pethouse.png" alt="pethouse">
+						pethouse.ua
+					</a>
+				</div>
+				<div class="store__item">
+					<a href="https://www.zooapteka.kiev.ua/c4p-premium-scout-korm" target="_blank"><img src="img/zoopteka.png" alt="zoopteka">
+						zooapteka.kiev.ua
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+	<script src="owlcarousel/owl.carousel.min.js"></script>
+	<script src="js/easing.js" type="text/javascript"></script>
+	<script src="js/jquery.ui.totop.js" type="text/javascript"></script>
+	<script src="js/script.js"></script>
+	
+  	</body>
+</html>
