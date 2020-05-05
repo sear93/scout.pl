@@ -588,9 +588,9 @@
 }
 
 .move__img {
-  margin: 0 180px 120px 100px;
-  height: 760px;
-  background: #eff3ef;
+  padding: 0 180px 120px 100px;
+  /*height: 760px;*/
+  /*background: #eff3ef;*/
 }
 
 @media screen and (max-width: 860px) {
@@ -1206,9 +1206,9 @@
 }
 
 .dsns__img {
-  margin: 0 100px 100px 180px;
-  height: 760px;
-  background: #eff3ef;
+  padding: 0 100px 100px 180px;
+  /*height: 760px;*/
+  /*background: #eff3ef;*/
 }
 
 @media screen and (max-width: 860px) {
