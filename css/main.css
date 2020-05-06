@@ -1302,7 +1302,7 @@
 .dsns h3 {
   font-style: normal;
   font-weight: bold;
-  margin: 12px 0 25px 0;
+  margin: 12px 0 45px 0;
 }
 
 @media screen and (max-width: 860px) {
@@ -2295,8 +2295,7 @@ button {
 .modal-buy {
   position: fixed;
   overflow: hidden;
-  bottom: 2%;
-  top: 2%;
+  top: 20%;
 }
 
 @media screen and (max-width: 500px) {
